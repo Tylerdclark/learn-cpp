@@ -12,8 +12,8 @@ Documentation of my progress using learncpp.com. Quiz answers and example progra
   - [x] **0.7** - Compiling your first program
   - [x] **0.8** - A few common C++ problems
   - [x] **0.9** - Configuring your compiler: Build configurations
-  - [ ] **0.10** - Configuring your compiler: Compiler extensions
-  - [ ] **0.11** - Configuring your compiler: Warning and error levels
+  - [x] **0.10** - Configuring your compiler: Compiler extensions
+  - [x] **0.11** - Configuring your compiler: Warning and error levels
   - [ ] **0.12** -
 Configuring your compiler: Choosing a language standard
 
