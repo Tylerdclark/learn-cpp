@@ -14,7 +14,7 @@ Documentation of my progress using learncpp.com. Quiz answers and example progra
   - [x] **0.9** - Configuring your compiler: Build configurations
   - [x] **0.10** - Configuring your compiler: Compiler extensions
   - [x] **0.11** - Configuring your compiler: Warning and error levels
-  - [ ] **0.12** -
+  - [x] **0.12** -
 Configuring your compiler: Choosing a language standard
 
 - [ ] **Chapter 1** -  C++ Basics
