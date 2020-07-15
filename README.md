@@ -18,7 +18,7 @@ Documentation of my progress using learncpp.com. Quiz answers and example progra
 Configuring your compiler: Choosing a language standard
 
 - [ ] **Chapter 1** -  C++ Basics
-  - [ ] **1.1** - Statements and the structure of a program
+  - [x] **1.1** - Statements and the structure of a program
   - [ ] **1.2** - Comments
   - [ ] **1.3** - Introduction to variables
   - [ ] **1.4** - Variable assignment and initialization
