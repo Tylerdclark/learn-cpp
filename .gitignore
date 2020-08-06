@@ -7,3 +7,5 @@ CMakeLists.txt
 
 .DS_Store
 .vscode/tasks.json
+
+.vscode/
