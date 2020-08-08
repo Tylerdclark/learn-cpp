@@ -9,3 +9,5 @@ CMakeLists.txt
 .vscode/tasks.json
 
 .vscode/
+
+cmake-build-release/
