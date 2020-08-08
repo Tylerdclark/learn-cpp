@@ -21,8 +21,8 @@ Configuring your compiler: Choosing a language standard
   - [x] **1.1** - Statements and the structure of a program
   - [x] **1.2** - Comments
   - [x] **1.3** - Introduction to variables
-  - [ ] **1.4** - Variable assignment and initialization
-  - [ ] **1.5** - Introduction to iostream: cout, cin, and endl
+  - [x] **1.4** - Variable assignment and initialization
+  - [x] **1.5** - Introduction to iostream: cout, cin, and endl
   - [ ] **1.6** - Uninitialized variables and undefined behavior
   - [ ] **1.7** - Keywords and naming identifiers
   - [ ] **1.8** - Introduction to literals and operators
