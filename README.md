@@ -23,8 +23,8 @@ Configuring your compiler: Choosing a language standard
   - [x] **1.3** - Introduction to variables
   - [x] **1.4** - Variable assignment and initialization
   - [x] **1.5** - Introduction to iostream: cout, cin, and endl
-  - [ ] **1.6** - Uninitialized variables and undefined behavior
-  - [ ] **1.7** - Keywords and naming identifiers
+  - [x] **1.6** - Uninitialized variables and undefined behavior
+  - [x] **1.7** - Keywords and naming identifiers
   - [ ] **1.8** - Introduction to literals and operators
   - [ ] **1.9** - Introduction to expressions
   - [ ] **1.10** - Developing your first program
