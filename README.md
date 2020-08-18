@@ -25,8 +25,8 @@ Configuring your compiler: Choosing a language standard
   - [x] **1.5** - Introduction to iostream: cout, cin, and endl
   - [x] **1.6** - Uninitialized variables and undefined behavior
   - [x] **1.7** - Keywords and naming identifiers
-  - [ ] **1.8** - Introduction to literals and operators
-  - [ ] **1.9** - Introduction to expressions
+  - [x] **1.8** - Introduction to literals and operators
+  - [x] **1.9** - Introduction to expressions
   - [ ] **1.10** - Developing your first program
   - [ ] **1.x** - Chapter 1 summary and quiz
 - [ ] **Chapter 2** - C++ Basics: Functions and Files
