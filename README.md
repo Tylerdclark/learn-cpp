@@ -27,7 +27,7 @@ Configuring your compiler: Choosing a language standard
   - [x] **1.7** - Keywords and naming identifiers
   - [x] **1.8** - Introduction to literals and operators
   - [x] **1.9** - Introduction to expressions
-  - [ ] **1.10** - Developing your first program
+  - [x] **1.10** - Developing your first program
   - [ ] **1.x** - Chapter 1 summary and quiz
 - [ ] **Chapter 2** - C++ Basics: Functions and Files
   - [ ] **2.1** - Introduction to functions
