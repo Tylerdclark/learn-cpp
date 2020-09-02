@@ -28,10 +28,10 @@ Configuring your compiler: Choosing a language standard
   - [x] **1.8** - Introduction to literals and operators
   - [x] **1.9** - Introduction to expressions
   - [x] **1.10** - Developing your first program
-  - [ ] **1.x** - Chapter 1 summary and quiz
+  - [x] **1.x** - Chapter 1 summary and quiz
 - [ ] **Chapter 2** - C++ Basics: Functions and Files
-  - [ ] **2.1** - Introduction to functions
-  - [ ] **2.2** - Function return values
+  - [x] **2.1** - Introduction to functions
+  - [x] **2.2** - Function return values
   - [ ] **2.3** - Introduction to function parameters and arguments
   - [ ] **2.4** - Introduction to local scope
   - [ ] **2.5** - Why functions are useful, and how to use them effectively
