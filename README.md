@@ -34,7 +34,7 @@ Configuring your compiler: Choosing a language standard
   - [x] **2.2** - Function return values
   - [x] **2.3** - Introduction to function parameters and arguments
   - [x] **2.4** - Introduction to local scope
-  - [ ] **2.5** - Why functions are useful, and how to use them effectively
+  - [x] **2.5** - Why functions are useful, and how to use them effectively
   - [ ] **2.6** - Whitespace and basic formatting
   - [ ] **2.7** - Forward declarations and definitions
   - [ ] **2.8** - Programs with multiple code files
