@@ -35,9 +35,9 @@ Configuring your compiler: Choosing a language standard
   - [x] **2.3** - Introduction to function parameters and arguments
   - [x] **2.4** - Introduction to local scope
   - [x] **2.5** - Why functions are useful, and how to use them effectively
-  - [ ] **2.6** - Whitespace and basic formatting
-  - [ ] **2.7** - Forward declarations and definitions
-  - [ ] **2.8** - Programs with multiple code files
+  - [x] **2.6** - Whitespace and basic formatting
+  - [x] **2.7** - Forward declarations and definitions
+  - [x] **2.8** - Programs with multiple code files
   - [ ] **2.9** - Naming collisions and an introduction to namespaces
   - [ ] **2.10** - Introduction to the preprocessor
   - [ ] **2.11** - Header files
