@@ -38,7 +38,7 @@ Configuring your compiler: Choosing a language standard
   - [x] **2.6** - Whitespace and basic formatting
   - [x] **2.7** - Forward declarations and definitions
   - [x] **2.8** - Programs with multiple code files
-  - [ ] **2.9** - Naming collisions and an introduction to namespaces
+  - [x] **2.9** - Naming collisions and an introduction to namespaces
   - [ ] **2.10** - Introduction to the preprocessor
   - [ ] **2.11** - Header files
   - [ ] **2.12** - Header guards
