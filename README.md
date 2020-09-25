@@ -40,7 +40,7 @@ Configuring your compiler: Choosing a language standard
   - [x] **2.8** - Programs with multiple code files
   - [x] **2.9** - Naming collisions and an introduction to namespaces
   - [x] **2.10** - Introduction to the preprocessor
-  - [ ] **2.11** - Header files
+  - [x] **2.11** - Header files
   - [ ] **2.12** - Header guards
   - [ ] **2.13** - How to design your first programs
   - [ ] **2.x** - Chapter 2 summary and quiz
