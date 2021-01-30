@@ -2,7 +2,7 @@
 
 Documentation of my progress using learncpp.com. Quiz answers and example programs included.
 
-- [ ] **Chapter 0** - Introduction / Getting Started
+- [x] **Chapter 0** - Introduction / Getting Started
   - [x] **0.1** - Introduction to these tutorials
   - [x] **0.2** -Introduction to programming languages
   - [x] **0.3** -Introduction to C/C++
@@ -17,7 +17,7 @@ Documentation of my progress using learncpp.com. Quiz answers and example progra
   - [x] **0.12** -
 Configuring your compiler: Choosing a language standard
 
-- [ ] **Chapter 1** -  C++ Basics
+- [x] **Chapter 1** -  C++ Basics
   - [x] **1.1** - Statements and the structure of a program
   - [x] **1.2** - Comments
   - [x] **1.3** - Introduction to variables
